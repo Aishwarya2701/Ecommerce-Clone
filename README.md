@@ -45,11 +45,7 @@ Before you begin, ensure you have met the following requirements:
 ## Setup
 
 1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/aashish-dhiman/E-Commerce.git
-   cd E-Commerce
-   ```
-
+  
 2. **Setup the Backend:**
    - Navigate to the backend directory:
      ```sh
